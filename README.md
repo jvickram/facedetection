@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### TODOS
+dependencies installation
+
+
+
+### Instalations steps
+
+npm i @tensorflow-models/face-landmarks-detection
+
+npm install @tensorflow/tfjs
+
+pm install react-webcam  
